@@ -1,37 +1,4 @@
-{
-   "cell_type": "markdown",
-   "id": "90d57d12",
-   "metadata": {
-    "deletable": false,
-    "editable": false,
-    "id": "c81daeeb"
-   },
-   "source": [
-    "# Исследование надежности заемщиков\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "d5d8fed9",
-   "metadata": {
-    "deletable": false,
-    "editable": false,
-    "id": "827c20bf"
-   },
-   "source": [
-    "Во второй части проекта вы выполните шаги 3 и 4. Их вручную проверит ревьюер.\n",
-    "Чтобы вам не пришлось писать код заново для шагов 1 и 2, мы добавили авторские решения в ячейки с кодом. \n",
-    "\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "5f84d5de",
-   "metadata": {
-    "deletable": false,
-    "editable": false,
-    "id": "744d7639"
-   },
+
    "source": [
     "## Откройте таблицу и изучите общую информацию о данных"
    ]
